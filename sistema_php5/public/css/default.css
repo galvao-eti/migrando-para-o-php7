@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+input {
+    border: 1px solid #000;
+}
+
+br {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+table {
+    width: 100%;
+}
+
+tr td, th {
+    border: 1px solid #000;
+}
+
+#menu {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin-top: 5px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+#identification {
+    text-align: right;
+}

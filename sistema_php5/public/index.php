@@ -1,9 +1,10 @@
-<?php session_start();?>
+<?php require_once '../sessionManagement.php';?>
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf8">
         <title>Sistema</title>
+        <link rel="stylesheet" type="text/css" href="css/default.css">
     </head>
     <body>
         <?=(isset($_GET['msg']) ? $_GET['msg'] : '');?>

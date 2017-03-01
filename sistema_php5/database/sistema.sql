@@ -19,6 +19,7 @@ USE `sistema` ;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `sistema`.`usuario` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `name` TEXT NOT NULL,
   `email` TEXT NOT NULL,
   `senha` VARCHAR(120) NOT NULL,
   PRIMARY KEY (`id`))
