@@ -13,7 +13,7 @@ As VMs foram customizadas da forma mais leve possível propositalmente para que 
 ## Instruções
 
 - Baixe o [VirtualBox](https://www.virtualbox.org/), caso ainda não possua ele instalado em sua máquina.
--  Obtenha a appliance da VM PHP5:  [VM PHP 5.6](http://www.galvao.eti.br/F24_PHP5.zip)
+-  Obtenha a appliance da VM PHP5:  [VM PHP 5.6](http://www.galvao.eti.br/downloads/F24_PHP5.zip)
 
  Appliance gerada e totalmente atualizada em: 2017-03-01
 
@@ -25,7 +25,7 @@ Tamanho: 3.8Gb (3,998,085,632)
 
 Checksum (SHA) do arquivo: cb80a8273eaa184416880658b03dbca0c80c96c2  F24_PHP5.ova
 
-- Obtenha a appliance da VM PHP7:  [VM PHP 7.1](http://www.galvao.eti.br/F25_PHP7.zip) 
+- Obtenha a appliance da VM PHP7:  [VM PHP 7.1](http://www.galvao.eti.br/downloads/F25_PHP7.zip) 
 
 Appliance gerada e totalmente atualizada em: 2017-03-01
 
