@@ -2,7 +2,7 @@
 
 ## Introdução e Disclaimer
 
-O material aqui apresentado é específico para o curso [Migrando para o PHP7](https://bit.ly/migrandoPHP7) , do [Prof. Er Galvão Abbott](https://github.com/galvao) , promovido com exclusividade pela [Tempo Real Eventos](http://www.temporealeventos.com.br/) . Este repositório, seus códigos-fonte e eventuais materiais extras distribuídos durante o curso estão sob licença MIT e Creative Commons Share-Alike.
+O material aqui apresentado é específico para o curso Migrando para o PHP7 , do [Prof. Er Galvão Abbott](https://www.galvao.eti.br). Este repositório, seus códigos-fonte e eventuais materiais extras distribuídos durante o curso estão sob licença MIT e Creative Commons Share-Alike.
 
 Os códigos-fonte contidos neste repositório na pasta "sistema_php5" são propositalmente datados e não devem ser utilizados em qualquer ambiente fora da sala de aula. O código consiste, em resumo, em aproximadamente metade de um sistema do tipo "C.R.U.D."  desenvolvido com práticas de PHP5. Durante o curso será realizada a migração desta metade e desenvolvimento posterior da metade restante utilizando-se práticas de PHP7.
 
@@ -13,31 +13,30 @@ As VMs foram customizadas da forma mais leve possível propositalmente para que 
 ## Instruções
 
 - Baixe o [VirtualBox](https://www.virtualbox.org/), caso ainda não possua ele instalado em sua máquina.
--  Obtenha a appliance da VM PHP5:  [VM PHP 5.6](http://www.galvao.eti.br/downloads/F24_PHP5.zip)
 
- Appliance gerada e totalmente atualizada em: 2017-03-01
+-  Obtenha a appliance da VM PHP5:  [VM PHP 5.6](http://bit.ly/VM_PHP56)
 
- Versão do VirtualBox em que foi gerada: 5.1.14 r112924
+ Appliance gerada e totalmente atualizada em: 2017-11-12
 
- Nome do Arquivo: F24_PHP5.ova
+ Versão do VirtualBox em que foi gerada: 5.1.28 r117968
 
-Tamanho: 3.8Gb (3,998,085,632) 
+ Nome do Arquivo: F24_PHP56.ova
 
-Checksum (SHA) do arquivo: cb80a8273eaa184416880658b03dbca0c80c96c2  F24_PHP5.ova
+Tamanho: 4Gb (4.219.236.864) 
 
-- Obtenha a appliance da VM PHP7:  [VM PHP 7.1](http://www.galvao.eti.br/downloads/F25_PHP7.zip) 
+Checksum (SHA256) do arquivo: 2522bcc18444ec0afa36eb05e731a09256cef93d670e18d3741d48e8e84ad401  
 
-Appliance gerada e totalmente atualizada em: 2017-03-01
+- Obtenha a appliance da VM PHP7:  [VM PHP 7.1](http://bit.ly/VM_PHP71) 
 
-Versão do VirtualBox em que foi gerada: 5.1.14 r112924
+Appliance gerada e totalmente atualizada em: 2017-11-12
 
- Nome do Arquivo: F25_PHP7.ova
+Versão do VirtualBox em que foi gerada: 5.1.28 r117968
 
-Tamanho: 3.6Gb (3,859,209,216) 
+ Nome do Arquivo: F26_PHP71.ova
 
-Checksum (SHA) do arquivo: 36637e346bee7e2cca1c66d205b2ac356878f450  F25_PHP7.ova
+Tamanho: 4.1Gb (4.314.413.056) 
 
-- Renomeie os arquivos das appliances de nome_da_appliance,zip para nome_da_appliance.ova
+Checksum (SHA256) do arquivo: c830efd6b23ea5385408aa962a5db1a241ff77e42ed0927103c656be1acc13ea
 
 - Importe ambas as appliances no VirtualBox, através do menu File -> Import Appliance.
 
@@ -47,7 +46,7 @@ O material de apoio e demais instruções serão passadas em sala de aula.
 
 Acesso às VMs:
 
-Usuário: aluno
-Senha (incluindo sudo): aluno
-Senha de root: galvaoetibr
+Usuário: usuario
+Senha (incluindo sudo): usuario
+Senha de root: galvao.eti.br
 
