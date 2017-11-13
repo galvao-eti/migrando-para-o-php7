@@ -6,7 +6,7 @@ O material aqui apresentado é específico para o curso Migrando para o PHP7 , d
 
 Os códigos-fonte contidos neste repositório na pasta "sistema_php5" são propositalmente datados e não devem ser utilizados em qualquer ambiente fora da sala de aula. O código consiste, em resumo, em aproximadamente metade de um sistema do tipo "C.R.U.D."  desenvolvido com práticas de PHP5. Durante o curso será realizada a migração desta metade e desenvolvimento posterior da metade restante utilizando-se práticas de PHP7.
 
-O curso utilizará duas VMs, uma rodando PHP 5.6 e outra rodando PHP 7.1.  Ambas as VMs rodam Fedora Linux versões 24 e 25, respectivamente, com a interface gráfica KDE. 
+O curso utilizará duas VMs, uma rodando PHP 5.6 e outra rodando PHP 7.1.  Ambas as VMs rodam Fedora Linux versões 24 e 26, respectivamente, com a interface gráfica KDE. 
 
 As VMs foram customizadas da forma mais leve possível propositalmente para que as exigências de hardware não sejam altas. Em virtude disso não é recomendada a instalação de nenhum software adicional nestas VMs, não sendo responsabilidade do curso problemas decorrentes dessa prática.
 
